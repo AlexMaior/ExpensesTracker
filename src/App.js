@@ -2,6 +2,8 @@ import { useState } from "react";
 import Expenses from "./components//Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 
+//a db.json will be added
+
 const DUMMY_EXPENSES = [
   {
     id: "e1",
